@@ -1,0 +1,16 @@
+# STM32 build outputs
+Debug/
+Release/
+build/
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+# Keep STM32CubeIDE project metadata
+# .project, .cproject, .mxproject, .settings/
+
+# OS files
+.DS_Store
+Thumbs.db
